@@ -33,3 +33,7 @@ python3 main.py
 ```
 step 6: type in the action you wish to perform
 
+# Credits
+This project is based on the work originally created by [Daniel Bourke](https://medium.com/data-science/rubiks-cube-solver-96fa6c56fbe4) 
+
+Modifications and enhancements have been made to adapt it to my use and learning purposes.
